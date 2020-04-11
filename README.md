@@ -1,0 +1,1 @@
+This is my first project a week after I started learning web development. Google imitation webpage.
